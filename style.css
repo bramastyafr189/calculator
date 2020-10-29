@@ -1,0 +1,27 @@
+table {
+  padding: 2px;
+  background-color: black;
+}
+
+input {
+  width: 30px;
+  height: 30px;
+  font-size: 15px;
+  position: relative;
+  background-color: lightyellow;
+}
+
+.operator {
+  background-color: cyan;
+}
+
+#display {
+  width: 123px;
+  font-size: 15px;
+  text-align: right;
+  background-color: white;
+}
+
+#clear {
+  background-color: pink;
+}
